@@ -14,13 +14,14 @@ Regression models, including Linear Regression, ExtraTrees Regressor, Random For
 # Predicting Solubility for New Cation Molecules
  A dataset of 500 quaternary ammonium cation molecules from the CHEMBL database was used. Predictions for 150 molecules were generated using the trained models.
 
-#Dependencies
+Dependencies
 Scikit-learn: Scikit-learn
 RDKit: RDKit
 NumPy: NumPy
 Matplotlib: Matplotlib
 Pandas: Pandas
-How to Use
+
+# How to Use
 Install dependencies: pip install -r requirements.txt
 Run Jupyter notebooks for model training and prediction.
 Explore model predictions for new cation molecules.
